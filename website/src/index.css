@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media (max-width: 768px) {
+    .bg-black {
+      position: relative;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+    }
+
+  
+    
+  
+    .footer-main {
+      text-align: center;
+    }
+  
+    
+  }
+  
